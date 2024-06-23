@@ -2,7 +2,7 @@
 
 Tenho 23 anos e estou na minha jornada para me tornar uma **Desenvolvedora Backend**. 
 Em Agosto/24 iniciei meu curso superior em Engenharia de Software, com previsão de formação em Dez/2030.
-Atualmente estou focada em aprimorar meus conhecimentos na linguagem JavaScript voltada ao Back-End com o apoio do NodeJS, logo mais, espero compartilhar com vocês as ideias que estou desenvolvendo para novos projetos.
+Atualmente estou focada em aprimorar meus conhecimentos na linguagem JavaScript voltada ao Back-End com o apoio do NodeJS e também, para versionamento, aprendendo sobre Git. Em breve, espero compartilhar com vocês as ideias que estou desenvolvendo para novos projetos.
 
 
 ## 🧠 - Meu conhecimento técnico se resume em..
