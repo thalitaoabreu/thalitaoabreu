@@ -1,7 +1,7 @@
 # 🙋🏻‍♀️ - Olá, meu nome é Thalita Oliveira, mas pode me chamar de Tha!
 
-Tenho 23 anos e estou na minha jornada para me tornar uma **Desenvolvedora Backend**. 
-Em Agosto/24 iniciei meu curso superior em Engenharia de Software, com previsão de formação em Dez/2030.
+Tenho 24 anos e estou na minha jornada para me tornar uma **Desenvolvedora Backend**. 
+Estou iniciando da graduação no curso Ciência da Computação, com previsão de formação em Dez/2029.
 Atualmente estou focada em aprimorar meus conhecimentos na linguagem JavaScript voltada ao Back-End com o apoio do NodeJS e também, para versionamento, aprendendo sobre Git. Em breve, espero compartilhar com vocês as ideias que estou desenvolvendo para novos projetos.
 
 
