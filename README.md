@@ -1,21 +1,18 @@
-# 🙋🏻‍♀️ - Olá, meu nome é Thalita Oliveira, mas pode me chamar de Thali!
+# Olá! Eu sou a Thalita 👋
 
-Tenho 24 anos e estou na minha jornada para me tornar uma **Desenvolvedora Backend**. 
-Sou estudante de Ciência da Computação, com previsão de formação em Jul/2030.
-Atualmente estou focada em aprimorar meus conhecimentos na linguagem JavaScript voltada ao Back-End com o apoio do NodeJS e também, para versionamento, aprendendo sobre Git. Em breve, espero compartilhar com vocês as ideias que estou desenvolvendo para novos projetos.
+Estudante de Ciência da Computação, interessada em desenvolvimento de software e construção de aplicações Back-End.
 
+Atualmente, estou direcionando meus estudos para o ecossistema Java, desenvolvendo minha base na linguagem e avançando gradualmente para Spring Boot.
 
-## 🧠 - Meu conhecimento técnico se resume em..
+### Tecnologias e ferramentas
 
-- Linguagem Principal: **JavaScript, NodeJS**
-- Banco de Dados:  **SQL Server, MySQL**
-- Conhecimentos extras: **HTML, CSS**
+- **Em aprendizado:** Java
+- **Próximos objetivos:** Spring Boot, APIs REST e bancos de dados relacionais
+- **Conhecimentos anteriores:** JavaScript, HTML, CSS e SQL
+- **Ferramentas:** Git e GitHub
 
-## 📨 - Caso queira, segue abaixo meus dados de contato:
+### Objetivo
 
-- 📧**E-mail:** [thalita.oabreu@outlook.com](mailto:thalita.oabreu@outlook.com)
-- 🔗**LinkedIn:** [Thalita Oliveira](https://www.linkedin.com/in/thalita-oliveira-20b258215/)
-- 🐙**GitHub:** [thalitaoabreu](https://github.com/thalitaoabreu/)
+Construir projetos práticos, consolidar meus conhecimentos em desenvolvimento Back-End e evoluir continuamente como desenvolvedora.
 
-Agradeço a visita em meu perfil, sinta-se á vontade para se conectar e compartilhar suas ideias comigo!
-Até breve 
+📌 Neste perfil, compartilho meus estudos, exercícios e projetos.
