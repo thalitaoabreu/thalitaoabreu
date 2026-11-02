@@ -8,7 +8,6 @@ Atualmente, estou direcionando meus estudos para o ecossistema Java, desenvolven
 
 - **Em aprendizado:** Java
 - **Próximos objetivos:** Spring Boot, APIs REST e bancos de dados relacionais
-- **Conhecimentos anteriores:** JavaScript, HTML, CSS e SQL
 - **Ferramentas:** Git e GitHub
 
 ### Objetivo
